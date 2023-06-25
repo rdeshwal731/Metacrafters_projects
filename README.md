@@ -15,7 +15,7 @@ Assessment-4  | POLY PROOF-Advanced Level
 <p>
 To get started with the assignments, follow these steps:
 
-<br>1. Clone this repository: git clone https://github.com/your-username/metacrafters-assignments.git;
+<br>1. Clone this repository: git clone https://github.com/your-username/metacrafters_projects.git;
  
 <br>2. Navigate to the specific assignment folder;  
 
