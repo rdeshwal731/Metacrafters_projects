@@ -4,12 +4,12 @@ This repository contains my completed assignments for the MetaCrafters course. E
 
 ## CONTENTS: ##
 
-Assessments   | Course
-------------- | -------------
-Assessment-1  | JS-PROOF
-Assessment-2  | ETH PROOF-Beginner Level
-Assessment-3  | ETH PROOF-Intermediate Level
-Assessment-4  | POLY PROOF-Advanced Level
+Projects   | Course
+---------- | -------------
+Project-1  | JS-PROOF
+Project-2  | ETH PROOF-Beginner Level
+Project-3  | ETH PROOF-Intermediate Level
+Project-4  | POLY PROOF-Advanced Level
 
 ## Walkthrough ##
 <p>
