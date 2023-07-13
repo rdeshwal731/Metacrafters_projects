@@ -1,0 +1,6 @@
+Description:
+The code provides a basic implementation of a token contract with minting and burning functionality. 
+It allows for the creation and destruction of tokens while keeping track of balances for different addresses.
+  
+Use Remix IDE for compiling this code.
+  
