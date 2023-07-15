@@ -1,4 +1,4 @@
-# Hello World
+# Error Handling- require, assert, revert
 
 This Solidity program demonstrates the Error Handling statements "require()", "assert()" and "revert()" in Solidity programming language. The purpose of this program is to implement a basic smart contract with require(), assert() and revert() statements.
 
