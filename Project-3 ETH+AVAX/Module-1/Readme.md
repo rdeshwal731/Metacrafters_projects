@@ -4,7 +4,7 @@ This Solidity program demonstrates the Error Handling statements "require()", "a
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has three function that returns implementation of error handling statements. 
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has three functions that returns implementation of error handling statements. 
 
 ## Getting Started
 
