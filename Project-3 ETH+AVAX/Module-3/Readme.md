@@ -1,4 +1,4 @@
-# EmberToken
+# Token
 EmerToken, also known as "vision" with the symbol "VS," is an Ethereum-based ERC-20 token smart contract. This contract allows for the creation, transfer, and destruction of tokens following the ERC-20 standard, making it compatible with a wide range of decentralized applications (DApps) and supporting wallets.
 
 
