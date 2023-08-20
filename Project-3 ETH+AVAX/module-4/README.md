@@ -16,7 +16,7 @@ Degen Token (DGN) is a revolutionary decentralized token tailored for gaming ent
 ### Usage
 
 1. Open the Solidity compiler of your choice.
-2. Create a new file or import the module3.sol file.
+2. Create a new file or import the module4.sol file.
 3. Compile the contract using the Solidity compiler.
 4. Deploy the contract to your desired Ethereum network or local blockchain.
    
@@ -24,7 +24,7 @@ Degen Token (DGN) is a revolutionary decentralized token tailored for gaming ent
 For any issues or questions, please feel free to reach out for assistance.
 
 ## Authors
-[Anmol Malik](https://anmolmalik01.netlify.app/)
+[Raghav Deshwal](https://github.com/rdeshwal731)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
