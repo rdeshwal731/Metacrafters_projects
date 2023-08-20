@@ -24,7 +24,9 @@ Degen Token (DGN) is a revolutionary decentralized token tailored for gaming ent
 For any issues or questions, please feel free to reach out for assistance.
 
 ## Authors
-[Raghav Deshwal](https://github.com/rdeshwal731)
+Raghav Deshwal
+<br>[@Github](https://github.com/rdeshwal731) 
+[@LinkedIn](https://www.linkedin.com/in/raghav-deshwal-08a71920b/) </br>
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
