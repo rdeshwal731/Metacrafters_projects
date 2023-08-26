@@ -30,5 +30,10 @@ For any issues or questions, please feel free to reach out for assistance.
 ## Authors
 [Raghav Deshwal](https://github.com/rdeshwal731)
 
+## Video Walkthrough
+
+- https://www.loom.com/share/4165306d98c04594a5d30c14561fe12c?sid=66a42224-0a3a-4d02-b7f3-04b7909e3307
+- https://www.loom.com/share/bd93661d45dd44a1bd719793e680fd11?sid=325303e2-7253-4ac0-91e9-3162c538afa7
+  
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
