@@ -26,6 +26,9 @@ Once the contract is deployed, you can interact with it by using various options
 Raghav Deshwal  
 [@LinkedIn](https://www.linkedin.com/in/raghav-deshwal-08a71920b/)
 
+## Video Walkthrough
+
+- https://www.loom.com/share/ee23096794fe4ba283b9db10ca618524
 
 ## License
 
