@@ -28,5 +28,9 @@ Raghav Deshwal
 <br>[@Github](https://github.com/rdeshwal731) 
 [@LinkedIn](https://www.linkedin.com/in/raghav-deshwal-08a71920b/) </br>
 
+## Video Walkthrough
+
+-https://www.loom.com/share/4e7d44685a884067a375fd1efaecb0bb?sid=6923daf2-49a2-4a9c-9dab-68dc18154fc9
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
