@@ -1,0 +1,156 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  transition: transform 0.5s ease-in-out;
+}
+
+.App-logo:hover {
+  transform: rotate(360deg);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.App-header:hover {
+  background-color: #3a3f4b;
+}
+
+.App-link {
+  color: #61dafb;
+  transition: color 0.3s ease-in-out;
+}
+
+.App-link:hover {
+  color: #88e1ff;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Additional Styles */
+
+.title {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.owner-info {
+  margin-bottom: 20px;
+}
+
+.owner-heading {
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.balance {
+  color: #666;
+  font-size: 16px;
+}
+
+.transfer-section {
+  margin-bottom: 20px;
+  animation: fade-in 1s ease-in-out;
+}
+
+.label {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.transfer-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.transfer-input input {
+  width: 40%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.ether {
+  margin-left: 5px;
+}
+
+.button,
+.connect-button {
+  padding: 10px 20px;
+  background-color: #6593fd;
+  color: #000000;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+
+.button:hover,
+.connect-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-right {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
